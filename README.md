@@ -1,4 +1,4 @@
-![logo](https://github.com/zaheernaqvi72/Sayed-Zaheer-Abass/blob/main/logo.png)
+![logo](img.png)
 
 <h1 align="center">Hi 👋, I'm Sayed Zaheer Abass</h1>
 
