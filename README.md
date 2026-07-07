@@ -2,108 +2,213 @@
 
 <h1 align="center">Hi 👋, I'm Sayed Zaheer Abass</h1>
 
-<h3 align="center"><b>Machine Learning & Full-Stack Web Developer | AI Enthusiast</b></h3>
+<h3 align="center">
+AI Software Engineer • LLM Evaluation • MLOps • Machine Learning • Full-Stack Developer
+</h3>
 
-<hr>
-
-<img align="right" alt="Coding" width="300" src="https://github.com/zaheernaqvi72/Sayed-Zaheer-Abass/blob/main/Coding.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaheernaqvi72&label=Profile%20views&color=ff00e7&style=flat" alt="zaheernaqvi72" /> </p>
-
-* 🎓 Master's in **Artificial Intelligence & Machine Learning**, *Jamia Millia Islamia (2024–2026)* — CGPA: **9.25**
-* 🧠 Passionate about **Machine Learning**, **Computer Vision**, and **Data Science**
-* 🌱 Currently building ML apps using **Streamlit**, **TensorFlow**, **PyTorch**, and **Scikit-Learn**
-* 🌐 Proficient in full-stack web development with **MERN Stack**
-* 📫 Reach me at **[sayedalinaqvi1472@gmail.com](mailto:sayedalinaqvi1472@gmail.com)**
+<p align="center">
+Building reliable AI systems, evaluation pipelines, and production-ready ML applications.
+</p>
 
 ---
 
-## 🌐 Socials
+<img align="right" alt="Coding" width="330" src="https://github.com/zaheernaqvi72/Sayed-Zaheer-Abass/blob/main/Coding.gif">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/sayed-zaheer-abass)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/naqvi_zaheer_72)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord\&logoColor=white)](https://discord.gg/TqYBAQuV)
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=zaheernaqvi72&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
+</p>
 
----
+## 🚀 About Me
 
-## 💻 Tech Stack
-
-### Machine Learning & Data Science
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge\&logo=keras\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-
-### Web Development & Version Control
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge\&logo=mui\&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge\&logo=oracle\&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL--SQL-%23E34F26.svg?style=for-the-badge)
+- 🎓 M.Sc. in **Artificial Intelligence & Machine Learning** at **Jamia Millia Islamia (2024–2026)** | **CGPA: 9.12**
+- 💼 **Software Engineer (AI)** @ Handshake
+- ⭐ **Squad Lead & L10 Reviewer** @ Outlier AI (Scale AI)
+- 🧠 Specializing in **LLM Evaluation**, **AI Agents**, **Machine Learning**, **Computer Vision**, **MLOps**, and **Software Engineering**
+- 🔬 Passionate about building reproducible AI systems, evaluation datasets, and benchmark pipelines
+- ⚡ Experienced with Dockerized environments, GitHub Actions, CI/CD, and production ML workflows
+- 🌱 Currently building AI Evaluation Platforms, Agentic AI systems, and Full-Stack AI applications
+- 📫 **Email:** **sayedalinaqvi1472@gmail.com**
 
 ---
 
-## 🧠 Other Skills
+# 🌐 Connect With Me
 
-* Prompt Engineering
-* AI Model Evaluation
-* Data Mining & Visualization
-* Time Series Analysis
-* Statistical Analysis & Modeling
-* Problem Solving & Critical Thinking
-* Team Collaboration & Communication
+<p align="left">
 
----
+<a href="https://linkedin.com/in/sayed-zaheer-abass">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 📜 Certifications
+<a href="mailto:sayedalinaqvi1472@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-* [CS50x: Introduction to Computer Science – Harvard](https://cs50.harvard.edu/certificates/d4f29502-f9b6-4354-9255-686ee75d252a)
-* [CS50SQL: Databases with SQL – Harvard](https://cs50.harvard.edu/certificates/e4b06cec-c697-456a-97a0-1139d180bc5a)
+<a href="https://instagram.com/naqvi_zaheer_72">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=zaheernaqvi72\&theme=radical\&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=zaheernaqvi72\&theme=radical\&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaheernaqvi72\&theme=radical\&layout=compact)
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 💻 Tech Stack
 
-![](https://github-profile-trophy.vercel.app/?username=zaheernaqvi72\&theme=radical\&no-frame=false\&margin-w=4)
+## Programming Languages
 
----
-
-## 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=zaheernaqvi72\&limit=5\&theme=radical\&combine_all_yearly_contributions=true)
-
----
-
-## ✍️ Developer Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=light)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
 
 ---
 
-<h2 align="center">Thank You 😊</h2>
+## AI / Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
+
+---
+
+## MLOps & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+## Backend Development
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+---
+
+## Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+
+---
+
+# 🧠 Areas of Expertise
+
+- 🤖 Large Language Models (LLMs)
+- 🧠 AI Agent Evaluation
+- 📊 Machine Learning
+- 🔍 Computer Vision
+- 📝 Prompt Engineering
+- ⚙️ MLOps
+- 📦 Docker & Kubernetes
+- 🔄 CI/CD
+- 🧪 Software Testing
+- 📈 Data Science
+- 📚 NLP
+- 🔬 RLHF
+- 🏗️ AI Infrastructure
+- 📉 Statistical Analysis
+- 📂 Reproducible Research
+- 🚀 Full Stack AI Development
+
+---
+
+# 🏆 Experience Highlights
+
+### 💼 Software Engineer (AI)
+
+- AI Evaluation Datasets
+- Golden Solutions
+- Fail-to-Pass Testing
+- Software Verification
+- Agentic AI
+- Dockerized Evaluation Pipelines
+- Repository-level Engineering Tasks
+
+---
+
+### ⭐ Squad Lead & L10 Reviewer
+
+- Team Leadership
+- Software Evaluation
+- RLHF
+- Data Science Evaluation
+- Multi-Agent Reasoning
+- Multi-file Reasoning
+- Tool Calling
+- Quality Assurance
+- Prompt Engineering
+
+---
+
+# 📜 Certifications
+
+🏅 CS50x – Harvard University
+
+🏅 CS50 SQL – Harvard University
+
+🏅 Amazon ML Summer School 2025
+
+---
+
+# 📊 GitHub Analytics
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=zaheernaqvi72&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api?username=zaheernaqvi72&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaheernaqvi72&layout=compact&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=zaheernaqvi72&theme=algolia&margin-w=8)
+
+---
+
+# 📈 Contribution Graph
+
+[![Sayed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zaheernaqvi72&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🔥 Current Focus
+
+🚀 AI Evaluation Platforms
+
+🤖 AI Agents
+
+🧠 LLM Evaluation
+
+⚙️ MLOps
+
+📦 Production ML
+
+🔬 Research Engineering
+
+💻 Full Stack AI Applications
+
+---
+
+## 💡 Favorite Quote
+
+> "The best way to predict the future is to build it."
+
+---
+
+<h3 align="center">
+
+⭐ If you like my work, consider starring my repositories ⭐
+
+</h3>
