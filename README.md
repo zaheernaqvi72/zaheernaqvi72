@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sayed Zaheer Abass</h1>
 
 <h3 align="center">
-### AI Software Engineer • LLM Evaluation • Machine Learning • MLOps • Full-Stack AI
+  AI Software Engineer • LLM Evaluation • Machine Learning • MLOps • Full-Stack AI
 </h3>
 
 <p align="center">
