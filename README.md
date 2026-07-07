@@ -204,11 +204,11 @@ Building production-ready AI systems, LLM evaluation frameworks, intelligent AI 
 
 ---
 
-## 🏆 GitHub Trophies
+<!--
+# 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=zaheernaqvi72&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=zaheernaqvi72&theme=algolia&margin-w=8)
+-->
 
 ---
 
