@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-Building reliable AI systems, evaluation frameworks, AI agents, and production-ready machine learning applications.
+Building production-ready AI systems, LLM evaluation frameworks, intelligent AI agents, and scalable machine learning applications.
 </p>
 
 ---
@@ -20,12 +20,12 @@ Building reliable AI systems, evaluation frameworks, AI agents, and production-r
 
 ## 🚀 About Me
 
-- 🎓 M.Sc. in **Artificial Intelligence & Machine Learning** at **Jamia Millia Islamia (2024–2026)** | **CGPA: 9.12**
+- 🎓 M.Sc. in **Artificial Intelligence & Machine Learning** at **Jamia Millia Islamia (2024-2026)** | **CGPA: 9.12**
 - 💼 **Software Engineer (AI)** @ Handshake
 - ⭐ **Squad Lead & L10 Reviewer** @ Outlier AI (Scale AI)
 - 🧠 Specializing in **LLM Evaluation**, **AI Agents**, **Machine Learning**, **Computer Vision**, **MLOps**, and **Software Engineering**
-- 🔬 Passionate about building reproducible AI systems, evaluation datasets, and benchmark pipelines
-- ⚡ Experienced with Dockerized environments, GitHub Actions, CI/CD, and production ML workflows
+- 🔬 Passionate about building scalable, reproducible AI systems, benchmark datasets, and evaluation frameworks
+- ⚡ Experienced in Docker, Kubernetes, GitHub Actions, CI/CD, and production-grade ML workflows
 - 🌱 Currently building AI Evaluation Platforms, Agentic AI systems, and Full-Stack AI applications
 - 📫 **Email:** **sayedalinaqvi1472@gmail.com**
 
@@ -146,48 +146,41 @@ Building reliable AI systems, evaluation frameworks, AI agents, and production-r
 
 # 🏆 Achievements
 
-- Amazon ML Summer School 2025
-- Amazon ML Challenge Top Performer
-- Squad Lead & L10 Reviewer @ Outlier AI
-- Production AI Evaluation & Software Engineering
+- 🏅 Selected for Amazon ML Summer School 2025
+- 📈 Top Performer in the Amazon ML Challenge
+- ⭐ Promoted to Squad Lead & L10 Reviewer at Outlier AI
+- 💼 Software Engineer (AI) @ Handshake
 
 ---
 
-# 🏆 Experience Highlights
+# 💼 Experience Highlights
 
-### 💼 Software Engineer (AI)
+### 💼 Software Engineer (AI) - Handshake
 
-- AI Evaluation Datasets
-- Golden Solutions
-- Fail-to-Pass Testing
-- Software Verification
-- Agentic AI
-- Dockerized Evaluation Pipelines
-- Repository-level Engineering Tasks
+- Built production-grade AI evaluation datasets for frontier LLMs.
+- Developed Golden Solutions and Fail-to-Pass (F2P) evaluation suites.
+- Designed Dockerized and reproducible evaluation environments.
+- Evaluated AI-generated software across Python, JavaScript, and Bash.
+- Worked on repository-level software engineering tasks.
 
 ---
 
-### ⭐ Squad Lead & L10 Reviewer
+### ⭐ Squad Lead & L10 Reviewer - Outlier AI
 
-- Team Leadership
-- Software Evaluation
-- RLHF
-- Data Science Evaluation
-- Multi-Agent Reasoning
-- Multi-file Reasoning
-- Tool Calling
-- Quality Assurance
-- Prompt Engineering
+- Led AI contributors across software engineering evaluation projects.
+- Reviewed RLHF, Tool Calling, Multi-file Reasoning, and Agentic AI tasks.
+- Designed deterministic evaluation rubrics and benchmark datasets.
+- Mentored contributors on software quality and evaluation standards.
 
 ---
 
 # 📜 Certifications
 
-🏅 CS50x – Harvard University
+🏅 **CS50x - Harvard University**
 
-🏅 CS50 SQL – Harvard University
+🏅 **CS50 SQL - Harvard University**
 
-🏅 Amazon ML Summer School 2025
+🏅 **Amazon ML Summer School 2025**
 
 ---
 
@@ -198,6 +191,16 @@ Building reliable AI systems, evaluation frameworks, AI agents, and production-r
 ![](https://github-readme-stats.vercel.app/api?username=zaheernaqvi72&show_icons=true&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaheernaqvi72&layout=compact&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zaheernaqvi72&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zaheernaqvi72&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zaheernaqvi72&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zaheernaqvi72&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zaheernaqvi72&theme=github_dark&utcOffset=5.5)
 
 ---
 
@@ -210,24 +213,6 @@ Building reliable AI systems, evaluation frameworks, AI agents, and production-r
 # 📈 Contribution Graph
 
 [![Sayed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zaheernaqvi72&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-# 🔥 Current Focus
-
-🚀 AI Evaluation Platforms
-
-🤖 AI Agents
-
-🧠 LLM Evaluation
-
-⚙️ MLOps
-
-📦 Production ML
-
-🔬 Research Engineering
-
-💻 Full Stack AI Applications
 
 ---
 
