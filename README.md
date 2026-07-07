@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Sayed Zaheer Abass</h1>
 
 <h3 align="center">
-AI Software Engineer • LLM Evaluation • MLOps • Machine Learning • Full-Stack Developer
+### AI Software Engineer • LLM Evaluation • Machine Learning • MLOps • Full-Stack AI
 </h3>
 
 <p align="center">
-Building reliable AI systems, evaluation pipelines, and production-ready ML applications.
+Building reliable AI systems, evaluation frameworks, AI agents, and production-ready machine learning applications.
 </p>
 
 ---
@@ -31,6 +31,20 @@ Building reliable AI systems, evaluation pipelines, and production-ready ML appl
 
 ---
 
+# 💼 Open To
+
+- AI Software Engineer
+- Machine Learning Engineer
+- Applied AI Engineer
+- LLM Engineer
+- Research Engineer
+- Backend Python Engineer
+- AI Infrastructure Engineer
+
+📍 Open to Remote • Hybrid • On-site opportunities
+
+---
+
 # 🌐 Connect With Me
 
 <p align="left">
@@ -41,10 +55,6 @@ Building reliable AI systems, evaluation pipelines, and production-ready ML appl
 
 <a href="mailto:sayedalinaqvi1472@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/naqvi_zaheer_72">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
@@ -120,6 +130,26 @@ Building reliable AI systems, evaluation pipelines, and production-ready ML appl
 - 📉 Statistical Analysis
 - 📂 Reproducible Research
 - 🚀 Full Stack AI Development
+
+---
+
+# 🔥 Currently Working On
+
+- AI Evaluation Platform
+- Agentic AI Systems
+- RAG Applications
+- LLM Benchmarks
+- AI Infrastructure
+- Production ML Systems
+
+---
+
+# 🏆 Achievements
+
+- Amazon ML Summer School 2025
+- Amazon ML Challenge Top Performer
+- Squad Lead & L10 Reviewer @ Outlier AI
+- Production AI Evaluation & Software Engineering
 
 ---
 
